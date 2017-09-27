@@ -1,0 +1,22 @@
+{
+    "short_name": "ImPWA",
+    "name": "PWA availability test",
+    "icons": [
+      {
+        "src": "angular-48x48.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "angular-96x96.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "angular-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "#!/"
+  }
