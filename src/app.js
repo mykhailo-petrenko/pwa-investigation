@@ -1,4 +1,5 @@
 import angular from 'angular';
+import angularMaterial from 'angular-material';
 import angularUIRouter from '@uirouter/angularjs';
 
 import App from './components/App';
@@ -9,6 +10,7 @@ import './stylesheets/app.scss';
 
 angular
     .module('ImPWA', [
+        angularMaterial,
         angularUIRouter,
         App,
         Home,
